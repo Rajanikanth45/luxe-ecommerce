@@ -1,0 +1,5 @@
+DB USERS:
+admin@luxe.com | $2b$10$QeWfWFDSEGR/lfpLSW1QwOHp2QLHNKU9PMrX238ND2XFE1/f8QgLu | true | Matches password123: false
+john@example.com | $2b$10$1SfqPq5JqVdhGEwELT3ro.UgyRKViGy7O7KpazdrM9YTQXBXm6D6a | false | Matches password123: false
+jane@example.com | $2b$10$ly6oEE/hs/u2n3iZliWn7O6sQSfBROH6QFB7v7jO4B9gE5E9BW3MG | false | Matches password123: false
+test@example.com | $2b$10$ylBTLTXibMWSvuYpilMIvOsipROmclOVkaXXSalFinwdkehAoxop. | false | Matches password123: true

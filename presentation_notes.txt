@@ -1,0 +1,10 @@
+1. Architecture: LUXE is a full-stack MERN (MongoDB, Express, React, Node) e-commerce application.
+2. Frontend: Built with React and Tailwind CSS for a fast, responsive user interface.
+3. State Management: Redux Toolkit handles the shopping cart, user sessions, and API caching.
+4. Backend: Node.js and Express handle secure API requests and core business logic.
+5. Database: MongoDB stores products, user profiles, and order history securely.
+6. Authentication: JWT (JSON Web Tokens) ensure secure login and protect user data.
+7. User Dashboard: Allows users to track orders, manage wishlists, and update profiles in real-time.
+8. Shopping Flow: Users browse, add specific sizes/quantities to the cart, and checkout seamlessly.
+9. Admin Controls: Secure backend routes allow admins to manage the product catalog and inventory.
+10. Performance: RTK Query optimizes data fetching, providing instant loading states and error handling.
